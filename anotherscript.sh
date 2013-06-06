@@ -1,4 +1,4 @@
-antoher acript
+another script
 
 blah
-balh
+blah
